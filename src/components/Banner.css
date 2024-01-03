@@ -1,0 +1,14 @@
+.banner-contnent{
+    padding-left: 3rem;
+    padding-top: 300px;
+    width: 45rem;
+}
+
+.banner-contnent h1{
+    font-size: 3.5rem;
+}
+
+.banner-contnent h2{
+    font-size: 1rem;
+    padding-top: 1rem;
+}
